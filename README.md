@@ -1,3 +1,3 @@
 # HackerRank-Practice-Problems
 
-The Prolems are:
+The Python Prolems are:
