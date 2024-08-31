@@ -36,7 +36,7 @@ if __name__ == '__main__':
         score = float(input())
         marksheet+=[[name,score]]
         scoresheet+=[score]
-    x = sorted(scoresheet)[1]
+    x = sorted(set(scoresheet))[1]
     for n , s in sorted(marksheet):
         if s==x:
             print(n)
