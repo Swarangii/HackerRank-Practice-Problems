@@ -19,10 +19,10 @@ The 2N subsequent lines describe each student over 2 lines.
 
 Constraints:
 
-2<=N<=5
-There will always be one or more students having the second lowest grade.
+1.2<=N<=5
+2.There will always be one or more students having the second lowest grade.
 
-Output Format
+Output Format:
 
 Print the name(s) of any student(s) having the second lowest grade in. If there are multiple students, order their names alphabetically and print each one on a new line.
 
